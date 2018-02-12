@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: peer1 #测试时修改此属性  修改对应的hosts文件
